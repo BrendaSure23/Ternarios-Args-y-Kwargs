@@ -6,26 +6,31 @@ Este repositorio contiene las soluciones a ejercicios sobre Operador Ternario y 
 
 Ejercicios Resueltos
 1. Mayor de dos números
+
 Consigna: Calcular el número mayor de dos valores ingresados por el usuario.
 
 Conceptos: Operador Ternario, try-except.
 
 2. Búsqueda de un elemento
+
 Consigna: Encontrar una palabra en una lista de argumentos variables.
 
 Conceptos: *args, any(), Operador Ternario.
 
 3. Par o impar
+
 Consigna: Determinar si un número (o varios) es par o impar.
 
 Conceptos: *args, try-except, isinstance().
 
 4. Promedio de notas
+
 Consigna: Calcular el promedio de una lista de notas.
 
 Conceptos: *args, sum(), len(), Operador Ternario.
 
 5. Validación de argumentos
+
 Consigna: Imprimir un mensaje de error si no se pasan suficientes argumentos a una función.
 
 Conceptos: len(), manejo de errores.
